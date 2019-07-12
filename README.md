@@ -2,4 +2,4 @@
 
 ScreenShot:
 -------------
-[Tetris Screenshot in Ubuntu](https://imgur.com/a/cNhPx8m)
+[Tetris Screenshot in Ubuntu](https://i.imgur.com/Hp2IDcm.png)
