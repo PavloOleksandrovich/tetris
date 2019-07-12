@@ -1,5 +1,7 @@
 # Tetris
 
+**Note:** Multiplayer works only on local networks. 
+
 Menu:
 -------------
 ![Tetris Screenshot in Ubuntu](https://i.imgur.com/Hp2IDcm.png)
