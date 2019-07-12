@@ -30,6 +30,8 @@ How to run:
     
 - Run multiplayer:
 
-``` 1) Compile Server.py on host machine 
+``` 
+    1) Compile Server.py on host machine 
     2) Compile Main.py and select multiplayer 
-    3) Compile Main.py and select multiplayer on another machine ```
+    3) Compile Main.py and select multiplayer on another machine 
+```
