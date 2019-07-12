@@ -6,8 +6,8 @@ Menu:
 
 Single player:
 -------------
-![Tetris Screenshot in Ubuntu](https://imgur.com/bit4Bo5)
+![Tetris Screenshot in Ubuntu](https://i.imgur.com/pS5t67W.png)
 
 Multiplayer:
 -------------
-![Tetris Screenshot in Ubuntu](https://imgur.com/a/FclMM2V)
+![Tetris Screenshot in Ubuntu](https://i.imgur.com/pS5t67W.png)
