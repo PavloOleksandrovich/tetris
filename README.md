@@ -23,8 +23,10 @@ How to run:
 ------------
 - Run single player:
 
-``` 1) Compile Main.py 
-    2) Select single player in menu ```
+```
+    1) Compile Main.py 
+    2) Select single player in menu 
+```
     
 - Run multiplayer:
 
