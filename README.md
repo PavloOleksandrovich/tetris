@@ -11,3 +11,8 @@ Single player:
 Multiplayer:
 -------------
 ![Tetris Screenshot in Ubuntu](https://i.imgur.com/pS5t67W.png)
+
+Requirements:
+------------
+- pygame
+- Python 3.x
