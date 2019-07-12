@@ -23,11 +23,11 @@ How to run:
 ------------
 - Run single player:
 
-''' 1) Compile Main.py 
-    2) Select single player in menu ''''
+``` 1) Compile Main.py 
+    2) Select single player in menu ```
     
 - Run multiplayer:
 
-''' 1) Compile Server.py on host machine 
+``` 1) Compile Server.py on host machine 
     2) Compile Main.py and select multiplayer 
-    3) Compile Main.py and select multiplayer on another machine '''
+    3) Compile Main.py and select multiplayer on another machine ```
